@@ -1,0 +1,8 @@
+make profile page
+fix links
+fix view
+
+add admin
+add admin dashboard
+
+add messaging
